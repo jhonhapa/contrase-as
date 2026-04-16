@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import string
-import secrets # prueba de actualizacion
+import secrets # prueba camilo de actualizacion
 
 
 def generar_contrasena():
